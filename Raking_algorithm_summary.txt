@@ -1,5 +1,0 @@
-RAKING ALGORITHM SUMMARY
-                         original shifted target
-total observations             20      20     20
-total predicted [sum(p)]     9.91   13.00  13.00
-avg probability              0.50    0.65   0.65
